@@ -1,4 +1,4 @@
-FROM kepler-base:latest
+FROM kepler/kepler-base:latest
 
 MAINTAINER Daniel Crawl <danielcrawl@gmail.com>
 
